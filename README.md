@@ -17,4 +17,4 @@ The computer chooses first; just follow the prompts.
 
 Built with Python 3.
 
-##Author Name: Jay Nayee
+## Author Name: Jay Nayee
